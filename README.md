@@ -1,4 +1,4 @@
-# Data Science Analisando a contaminação de COVID-19 por Região e ocupação no Brasil.
+# Data Science na Análise de propagação do COVID-19 por Região e ocupação profissional no Brasil..
 ## Introdução
 
 ## Métodos
