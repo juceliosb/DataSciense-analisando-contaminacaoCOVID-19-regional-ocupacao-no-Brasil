@@ -1,4 +1,4 @@
-# Data Science Analisando 
+# Data Science Analisando a contaminação de COVID-19 por Região e ocupação no Brasil.
 ## Introdução
 
 ## Métodos
